@@ -1,0 +1,10 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+#PyChar folder
+.idea/
+
+#Jupyter folder
+
+.ipynb_checkpoints/
